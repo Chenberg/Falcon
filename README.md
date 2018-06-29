@@ -1,5 +1,6 @@
 # Falcon
-> 基于Vue2和AdminLTE的移动客户端自动化平台（前端）
+基于 Vue2 和 AdminLTE 的移动客户端 CI 平台（前端）  
+后端在这项目中 https://github.com/thierryxing/Jaguar
 
 ## 关于Falcon
 从16年初开始到现在，我们的前端团队将Vue作为主框架已经有一年多的时间了，而作为前端工程师出身的我，知识体系还停留在远古的Prototype和jQuery上，说起来也是一件十分惭愧的事情。
